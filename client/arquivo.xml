@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE Publications SYSTEM "publications.dtd" >
+
+<Palavras>
+
+<Palavra id="1" >
+<Nome>Banana</Nome>
+<Significado> banana é uma fruta exotica</Significado>
+</Palavra>
+
+<Palavra id="2" >
+<Nome>Abacate</Nome>
+<Significado> Abacate é verde</Significado>
+</Palavra>
+
+</Palavras>
